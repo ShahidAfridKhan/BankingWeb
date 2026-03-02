@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <webroots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <webroots />
+      </configuration>
+    </facet>
+    <facet type="tomcat-web-facet" name="Web Maven : LaceBank.war">
+      <configuration resourceDirectory="$MODULE_DIR$/src/main/webapp" deploymentDescriptor="$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    </facet>
+  </component>
+</module>
